@@ -26,4 +26,4 @@ the output stdout will be as part of the output of the model in the same convers
 
 With `--model` parameter  
 
-Example: `python pyrate.py --model 4o-mini`
+Example: `python pyrate.py --model o4-mini`
