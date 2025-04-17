@@ -1,6 +1,6 @@
 # pyrate
 
-## Before usaage
+## Before usage
 
 export OPENAI_API_KEY= #Your openai api key
 
