@@ -24,7 +24,7 @@ def main():
         parser = argparse.ArgumentParser(description="Pyrate: take from ChatGPT")
         parser.add_argument(
             "--model",
-            default="gpt-4o-mini", ## gpt-4o-mini is so cheap
+            default="gpt-4o-mini", 
             choices=["gpt-4", "code-davinci-002", "text-davinci-003", "o3-mini", "gpt-4o-mini"],
             help="Choose the API model to use",
         )
